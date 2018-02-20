@@ -18,5 +18,5 @@ class Dog
   end
 
 
-  
+
 end
